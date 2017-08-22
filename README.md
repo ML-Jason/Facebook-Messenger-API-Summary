@@ -17,7 +17,7 @@
 > 這邊產生的Token一但離開畫面之後就會不見，所以一定要馬上copy起來。  
 > 不然也可以用api的方式來產生page token，這個之後會講。
 
-* 回到【Webhooks】區域，在下方選擇要連結的粉絲頁，就完成設定了。剩下的就是Coding的部份。![](/assets/圖片4.JPG)![](/assets/圖片4.JPG)
+* 回到【Webhooks】區域，在下方選擇要連結的粉絲頁，就完成設定了。剩下的就是Coding的部份。![](/assets/圖片4.JPG)
 
 * 開始寫code，以下以Node.js做範例，首先要先寫一個讓Facebook用GET的方式驗證【驗證權杖】的進入點：
 
